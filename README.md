@@ -27,7 +27,7 @@ modular servomotores a distintos tiempos de ejecución y grados de movimiento.
 ###Instalación 
 
 ```shell
-$ git clone  
+$ git clone https://github.com/jesus-khristian/Robonova1-nodeJS-Johnny-five-Arduino.git 
 $ cd Robonova-nodeJS-Johnny-five-arduino 
 $ npm install 
 ```
