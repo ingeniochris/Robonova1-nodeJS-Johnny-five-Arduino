@@ -10,6 +10,7 @@ modular servomotores a distintos tiempos de ejecución y grados de movimiento.
 
 
 --Visita nuestro pagina (http://148.245.172.246/robonovA/)
+--Pequeño video (https://youtu.be/HS7VAO5c-Ks)
 
 
 ### Requisitos en windows 
