@@ -35,7 +35,9 @@ $ npm install
 ### Ejecución
 
 ```shell
-  $ node start
+  $ node app
+
+  listen port(8080)
 ```
 
 
