@@ -5,7 +5,7 @@ Utilizamos la placa Arduino Mega para poder conectar por medio de sus entradas d
 Porque usamos IDE Node.JS ?, Es buena opción para desarrollar aplicaciones web con JavaScript en el servidor, 
 es rápido, se maneja de manera asíncrona gracias a socket.io, sé controlar en tiempo real y 
 por múltiples usuarios conectados desde distintos dispositivos PC o móviles, lo usan grandes empresas actualmente. 
-Además, usamos Johnny-Five un excelente Firmware que es una excelente herramienta para controlar y 
+Además, usamos Johnny-Five un Firmware que es una excelente herramienta para controlar y 
 modular servomotores a distintos tiempos de ejecución y grados de movimiento.
 
 
