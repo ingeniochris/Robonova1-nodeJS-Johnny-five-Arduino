@@ -1,0 +1,24 @@
+{
+  "name": "robonova",
+  "version": "1.0.0",
+  "description": "Robot type robonova1 controlled by nodejs",
+  "main": "app.js",
+   "dependencies": {
+    "express.io": "^1.1.13",
+    "johnny-five": "^0.10.6",
+    "serialport": "^4.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesus-khristian/Robonova1-nodeJS-Johnny-five-Arduino.git"
+  },
+  "author": "christian castillo and teamrobonova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesus-khristian/Robonova1-nodeJS-Johnny-five-Arduino/issues"
+  },
+  "homepage": "https://github.com/jesus-khristian/Robonova1-nodeJS-Johnny-five-Arduino#readme"
+}
