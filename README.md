@@ -17,13 +17,21 @@ modular servomotores a distintos tiempos de ejecución y grados de movimiento.
 ### Contribución Team Robonova-AuroraPhoenix UPVM
 ===================================================
 Ortiz Quiroga Hugo.
+
 Robles Montero Zen Omael.
+
 Gama Campillo Antonio.
+
 Reyes Arias Alexis.
+
 Serrato Rios Miguel.
+
 Castillo Lozano Jesus Christian.
+
 Galindo Hernández Eduardo.
+
 Athos Romario Salmeron Andrade.
+
 
 ### Requisitos en windows 
 =========================
