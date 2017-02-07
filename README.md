@@ -1,4 +1,4 @@
-###Robonova 1 NodeJS, johnny-five, socket.io y  Arduino
+###Robonova 1 NodeJS, johnny-five, express.io y  Arduino
 ===========================
 Somos una comunidad estudiantil de la Universidad Politécnica del Valle de México encargada de la investigación y desarrollo de nuevas tecnologías en el ámbito industrial.
 
@@ -14,7 +14,7 @@ modular servomotores a distintos tiempos de ejecución y grados de movimiento.
 
 --Una muestra en [Video robonova](https://youtu.be/HS7VAO5c-Ks)
 
---Porfavor para cualquier duda, sugerencia o contribucion para mejorar el Projecto dejo mi correo jesus_h2o@hotmail.com
+--Porfavor para cualquier duda, sugerencia o contribución para mejorar el Projecto dejo mi correo jesus_h2o@hotmail.com
 
 ### Contribución Team Robonova-AuroraPhoenix UPVM
 ===================================================
@@ -60,7 +60,7 @@ $ npm install
 ```shell
   $ node app
 
-  listen port(8080)
+    listen port 8080
 ```
 
 
