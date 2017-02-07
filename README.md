@@ -14,6 +14,8 @@ modular servomotores a distintos tiempos de ejecución y grados de movimiento.
 
 --Una muestra en [Video robonova](https://youtu.be/HS7VAO5c-Ks)
 
+--Cursos en [Wordpress] (http://148.245.172.246/wordpress/) 
+
 --Porfavor para cualquier duda, sugerencia o contribución para mejorar el Projecto dejo mi correo jesus_h2o@hotmail.com
 
 ### Contribución Team Robonova-AuroraPhoenix UPVM
