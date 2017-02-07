@@ -31,7 +31,7 @@ Castillo Lozano Jesus Christian.
 
 Galindo Hernández Eduardo.
 
-Athos Romario Salmeron Andrade.
+Salmeron Andrade Athos Romario.
 
 
 ### Requisitos en windows 
