@@ -1,5 +1,6 @@
 ###Robonova 1 NodeJS, johnny-five, socket.io y  Arduino
 ===========================
+Somos una comunidad estudiantil de la Universidad Politécnica del Valle de México encargada de la investigación y desarrollo de nuevas tecnologías en el ámbito industrial.
 
 Utilizamos la placa Arduino Mega para poder conectar por medio de sus entradas digitales los 17 servomotores. 
 Porque usamos Node.JS ?, Es buena opción para desarrollar aplicaciones web con JavaScript en el servidor, 
@@ -9,7 +10,7 @@ Además, usamos Johnny-Five un Firmware que es una excelente herramienta para co
 modular servomotores a distintos tiempos de ejecución y grados de movimiento.
 
 
---Visita nuestro pagina [Robonova](http://148.245.172.246/robonovA/)
+--Visita nuestro pagina [Robonova](http://148.245.172.246/robonova/)
 
 --Una muestra en [Video robonova](https://youtu.be/HS7VAO5c-Ks)
 
