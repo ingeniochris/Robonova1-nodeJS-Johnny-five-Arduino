@@ -32,9 +32,9 @@ Serrato Rios Miguel.
 
 Castillo Lozano Jesus Christian.
 
-Galindo Hernández Eduardo.
-
 Salmeron Andrade Athos Romario.
+
+Galindo Hernández Eduardo.
 
 
 ### Requisitos en windows 
