@@ -10,16 +10,15 @@ Además, usamos Johnny-Five un Firmware que es una excelente herramienta para co
 modular servomotores a distintos tiempos de ejecución y grados de movimiento.
 
 
---Visita nuestro pagina [Robonova](http://148.245.172.246/robonova/)
 
 --Una muestra en [Video robonova](https://youtu.be/HS7VAO5c-Ks)
 
---Cursos en [Wordpress] (http://148.245.172.246/wordpress/) 
 
 --Porfavor para cualquier duda, sugerencia o contribución para mejorar el Projecto dejo mi correo jesus_h2o@hotmail.com
 
 ### Contribución Team Robonova-AuroraPhoenix UPVM
 ===================================================
+
 Ortiz Quiroga Hugo.
 
 Robles Montero Zen Omael.
@@ -39,8 +38,8 @@ Galindo Hernández Eduardo.
 
 ### Requisitos en windows 
 =========================
- - Instalar [Python](https://www.python.org/download/releases/2.7.6/)  
- - Instalar NodeJS  [node] (https://nodejs.org/en/download/)
+ - Instalar [Python](https://www.python.org/download/releases/2.7.6/)  version 2.7
+ - Instalar NodeJS  [node] (https://nodejs.org/en/download/)  version 0.12.4
  - Instalar [Visual Studio Express](https://www.visualstudio.com/es/vs/visual-studio-express/)
  - Instalar driver de [Arduino](https://www.arduino.cc/en/Guide/windows#toc4) 
 
