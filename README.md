@@ -38,14 +38,16 @@ Galindo Hernández Eduardo.
 
 ### Requisitos en windows 
 =========================
- - Instalar [Python](https://www.python.org/download/releases/2.7.6/)  version 2.7
- - Instalar NodeJS  [node] (https://nodejs.org/en/download/)  version 0.12.4
- - Instalar [Visual Studio Express](https://www.visualstudio.com/es/vs/visual-studio-express/)
+ - Instalar [Python](https://www.python.org/download/releases/2.7.6/)  version 2.7 
+ - Instalar NodeJS  [node] (https://nodejs.org/dist/v6.11.4/node-v6.11.4-win-x86.zip)  version 6.11.4 importante x32
+ - Instalar [Visual Studio Express](https://www.visualstudio.com/es/vs/visual-studio-express/) version importante x32
+ - Configurar variables de entorno de nodejs y python.
  - Instalar driver de [Arduino](https://www.arduino.cc/en/Guide/windows#toc4) 
+ - Cargar a la placa de arduino con en ejemplo StandardFirmata.
 
 ### Requisitos Linux 
 ====================
- - Instalar NodeJS [node](https://nodejs.org/en/blog/release/v0.10.36/)
+ - Instalar NodeJS [node](https://nodejs.org/dist/v6.11.4/node-v6.11.4-linux-x86.tar.xz)
  
 
 ###Instalación 
