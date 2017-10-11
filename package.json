@@ -1,9 +1,12 @@
+
 {
   "name": "robonova",
   "version": "1.0.0",
   "description": "Robot type robonova1 controlled by nodejs",
   "main": "app.js",
-   "dependencies": {
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "connect": "^3.6.5",
     "express.io": "^1.1.13",
     "johnny-five": "^0.10.6",
     "serialport": "^4.0.7"
